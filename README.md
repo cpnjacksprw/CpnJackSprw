@@ -1,0 +1,5 @@
+-  Hi, I’m @Tejas S P
+-  I’m interested in coding 
+-  I’m currently learning Python
+-  I’m looking to collaborate on Python Project 
+- 📫 How to reach me -Instagram @cpnjacksprw7
